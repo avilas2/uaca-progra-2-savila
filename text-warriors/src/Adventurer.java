@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Adventurer {
+public abstract class Adventurer {
 	private String name;
 	private String weapon;
 	private int str;
